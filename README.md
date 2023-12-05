@@ -20,9 +20,7 @@ UML Diagrams created with Lucid:
 <p align="center">
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png" width="800" height="800">
 </p>
-<p align="center">
-Class Diagram
-</p>
+<p align="center">Class Diagram</p>
 
 <p align="center">
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png" width="800" height="800">
