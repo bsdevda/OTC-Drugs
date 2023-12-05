@@ -9,7 +9,7 @@ UML Diagrams created with Lucid:
  - Dynamic: Activity Diagram
  - Static: Class and Use Case Diagram
 
-![alt text](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png)
+<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png" width="100" height="100">
 Activity Diagram
 ![alt text](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png)
 Class Diagram
