@@ -1,39 +1,39 @@
-# Over the Counter Drugs
+# Nonprescription Drugs
 
-## Project Overview
+## Project Summary
 
-This Flask-based project is designed to facilitate the sale of medical supplies. It includes essential features such as a homepage, catalog page, and a checkout page. Below, you'll find a brief overview of the project's purpose and its key features.
+This Flask-based project aims to make it easier to sell medical goods. It has basic functionality including a homepage, catalog page, and checkout page. The goal of the project and its essential elements are summarized below.
 
-## Features
+## Advantages
 
-### Homepage
+### Main Page
 
-The homepage serves as the initial point of entry for users and provides an introduction to your medical supply store. Key features include:
+The homepage is the first point of contact for users and acts as an introduction to your medical supplies store. Key characteristics include:
 
-- Display of featured or popular medical products.
-- General information about the store's mission or vision.
-- Navigation to the catalog page.
+- Display of popular or prominent medical products.
+- General information about the mission or goal of the store.
+- Access to the catalog page.
 
 ### Catalog Page
 
-The catalog page displays a list of available medical supplies. It offers users the ability to:
+The catalog page offers a list of medical supplies that are currently available. It allows users to do the following:
 
-- Browse through a range of medical products.
-- Filter and search for specific items.
-- View detailed product descriptions and images.
+- Look through a variety of medical products.
+- Search and filter for certain things.
+- View product information and photographs in detail.
 
-### Checkout Page
+### Page of Checkout
 
-The checkout page is where users can finalize their purchases. It features:
+Users can complete their purchases on the checkout page. It includes:
 
-- An easy-to-use shopping cart to review selected items.
-- The ability to enter shipping and payment information.
-- Confirmation of the order and a receipt.
+- A simple shopping cart for reviewing selected items.
+- The option to input shipping and payment details.
+- Order confirmation and a receipt.
 
-### User Authentication (Optional)
+### User Authentication
 
-For enhanced security and user experience, consider implementing user authentication features such as:
+Consider introducing user authentication elements such as: for improved security and user experience.
 
-- User registration and login.
-- User profiles with order history.
-- Password recovery and account management.
+- Registration and login for users.
+- User profiles that include order history.
+- Account management and password recovery.
