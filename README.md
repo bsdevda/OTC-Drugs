@@ -12,9 +12,7 @@ UML Diagrams created with Lucid:
 <p align="center">
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png" width="500" height="1000">
 </p>
-<p align="center">
-**Activity Diagram**
-</p>
+<p align="center">**Activity Diagram**</p>
 
 
 <p align="center">
@@ -25,10 +23,7 @@ UML Diagrams created with Lucid:
 <p align="center">
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png" width="800" height="800">
 </p>
-
-<p align="center">
-Use Case Diagram
-</p>
+<p align="center">Use Case Diagram</p>
 
 ## Requirements Engineering
 Two types of requirements engineering were performed for this project. Please find the following link for your reference:
