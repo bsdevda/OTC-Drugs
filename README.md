@@ -18,12 +18,12 @@ UML Diagrams created with Lucid:
 <p align="center">
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png" width="800" height="800">
 </p>
-<p align="center">Class Diagram</p>
+<h2 align="center">Class Diagram</h2>
 
 <p align="center">
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png" width="800" height="800">
 </p>
-<p align="center">Use Case Diagram</p>
+<h2 align="center">Use Case Diagram</h2>
 
 ## Requirements Engineering
 Two types of requirements engineering were performed for this project. Please find the following link for your reference:
