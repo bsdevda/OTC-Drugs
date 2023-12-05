@@ -12,10 +12,10 @@ UML Diagrams created with Lucid:
 <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png" width="500" height="1000">
 Activity Diagram
 
-<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png" width="800" height="1000">
+<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png" width="1000" height="1000">
 Class Diagram
 
-<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png" width="500" height="1000">
+<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png" width="1000" height="1000">
 Use Case Diagram
 
 ## Requirements Engineering
