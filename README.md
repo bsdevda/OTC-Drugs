@@ -2,7 +2,12 @@
 
 ## Project Summary
 
-This Flask-based project aims to make it easier to sell medical goods. It has basic functionality including a homepage, catalog page, and checkout page. The goal of the project and its essential elements are summarized below.
+This Flask-based project aims to make it easier to sell medical goods. It has basic functionality, including a homepage, catalog page, and checkout page. The goal of the project and its essential elements are summarized below.
+
+## UML Diagram
+UML Diagrams created with Lucid:
+ - Dynamic: Activity Diagram
+ - Static: Class and Use Case Diagram
 
 ## Advantages
 
