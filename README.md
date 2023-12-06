@@ -9,21 +9,7 @@ UML Diagrams created with Lucid:
  - Dynamic: Activity Diagram
  - Static: Class and Use Case Diagram
 
-<p align="center">
-<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png" width="500" height="1000">
-</p>
-<h2 align="center">Activity Diagram</h2>
-
-
-<p align="center">
-<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png" width="800" height="800">
-</p>
-<h2 align="center">Class Diagram</h2>
-
-<p align="center">
-<img src="https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png" width="800" height="800">
-</p>
-<h2 align="center">Use Case Diagram</h2>
+https://github.com/bsdevda/OTC-Drugs/tree/main/UMLs
 
 ## Requirements Engineering
 Two types of requirements engineering were performed for this project. Please find the following link for your reference:
