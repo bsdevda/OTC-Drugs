@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout</title>
+</head>
+<body>
+    <h1>Checkout Page</h1>
+
+    {% if user %}
+        <p>Welcome, User {{ user.name }}!</p>
+        <form action="/checkout">
+            <h2>Your Cart:</h2>
+            <ul>
+                {% for item in cart %}
+                    <li>
+                        {{ item }}
+                    </li>
+                {% endfor %}
+            </ul>
+
+            <p>Total Cost: ${{ total_cost }}</p>
+
+            <div>
+                <h2>Invoice:</h2>
+                
+                <ul>
+                    {% for allitems in items %}
+                        {% if allitems.name in cart %}
+                        <li>
+                            {{ allitems.name }} - ${{ allitems.price }}
+                        </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+
+                <p>Tax (10%): ${{ total_cost * 0.1 }}</p>
+                <p>Total with Tax: ${{ total_cost + total_cost * 0.1 }}</p>
+            </div>
+
+
+            <input type="submit" value="Checkout">
+        </form>
+    {% else %}
+        <p>Please log in to view the checkout page.</p>
+    {% endif %}
+</body>
+</html>

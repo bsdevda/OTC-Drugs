@@ -7,13 +7,42 @@
 </head>
 <body>
     <h1>Home Page of shop</h1>
+
+    {% if user %}
+        <p>Welcome, User {{ user.name }}!</p>
+        <ul>
+            <li><a href="/logout">Logout</a></li>
+            <li><a href="/checkout">Checkout</a></li>
+        </ul>
+    {% else %}
+        <ul>
+            <li><a href="/login">Login</a></li>
+            <li><a href="/register">Register</a></li>
+        </ul>
+    {% endif %}
+
+    <h2>Items on Sale:</h2>
     <ul>
-        <li>
-            <a href="/login">Login</a>
-        </li>
-        <li>
-            <a href="/register">Register</a>
-        </li>
+        {% for item in items %}
+            <li>
+                {{ item.name }} - ${{ item.price }}
+                {% if user %}
+                    <form action="/add_to_cart" method="post">
+                        <input type="hidden" name="item_name" value="{{ item.name }}">
+                        <input type="submit" value="Add to Cart">
+                    </form>
+                {% endif %}
+            </li>
+        {% endfor %}
     </ul>
+
+    {% if user %}
+        <h2>Your Cart:</h2>
+        <ul>
+            {% for item in cart %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
 </body>
 </html>
