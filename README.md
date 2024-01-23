@@ -14,7 +14,18 @@ https://github.com/bsdevda/OTC-Drugs/tree/main/UMLs
 ## Requirements Engineering
 Two types of requirements engineering were performed for this project. Please find the following link for your reference:
  - Self-made: https://www.notion.so/Requirements-Engineering-d8e730a826de41e0b3b26fdb6cde1cbf?pvs=4
- - Professional: (In progress)
+
+## Analysis
+
+Analysis Link - https://github.com/bsdevda/OTC-Drugs/blob/main/Analysis/Analysis.pdf
+
+## DDD
+
+DDD Link - https://github.com/bsdevda/OTC-Drugs/blob/main/DDD/DDD.png
+
+## Metrics
+
+SonarQube Link - https://github.com/bsdevda/OTC-Drugs/tree/main/Metrics
 
 ## Advantages
 
