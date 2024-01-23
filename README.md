@@ -17,15 +17,15 @@ Two types of requirements engineering were performed for this project. Please fi
 
 ## Analysis
 
-Analysis Link - https://github.com/bsdevda/OTC-Drugs/blob/main/Analysis/Analysis.pdf
+ - Analysis Link - https://github.com/bsdevda/OTC-Drugs/blob/main/Analysis/Analysis.pdf
 
 ## DDD
 
-DDD Link - https://github.com/bsdevda/OTC-Drugs/blob/main/DDD/DDD.png
+ - DDD Link - https://github.com/bsdevda/OTC-Drugs/blob/main/DDD/DDD.png
 
 ## Metrics
 
-SonarQube Link - https://github.com/bsdevda/OTC-Drugs/tree/main/Metrics
+ - SonarQube Link - https://github.com/bsdevda/OTC-Drugs/tree/main/Metrics
 
 ## Advantages
 
