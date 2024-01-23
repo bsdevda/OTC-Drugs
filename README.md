@@ -27,6 +27,17 @@ Two types of requirements engineering were performed for this project. Please fi
 
  - SonarQube Link - https://github.com/bsdevda/OTC-Drugs/tree/main/Metrics
 
+## CLEAN CODE DEVLOPMENT
+
+## BUILD MANAGEMENT
+
+## UNIT TESTS
+
+## IDE
+
+## FUNCTIONAL PROGRAMMING
+
+
 ## Advantages
 
 ### Main Page
