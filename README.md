@@ -27,13 +27,15 @@ Two types of requirements engineering were performed for this project. Please fi
 
  - SonarQube Link - https://github.com/bsdevda/OTC-Drugs/tree/main/Metrics
 
-## CLEAN CODE DEVLOPMENT
+## CLEAN CODE DEVELOPMENT
+The code follows clean code development techniques by using meaningful variable names, explicit function operations, and a modular structure. It also uses input validation for user registration and cart management, promoting robustness while maintaining a high degree of code readability.
 
 ## BUILD MANAGEMENT
 
 ## UNIT TESTS
 
 ## IDE
+Since it is a web application I used a simple code editor: "Visual Studio Code". It is very convenient for debugging web applications and offers many features that I used for my project.
 
 ## FUNCTIONAL PROGRAMMING
 
