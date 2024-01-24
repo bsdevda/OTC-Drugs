@@ -35,7 +35,11 @@ The code follows clean code development techniques by using meaningful variable 
 ## UNIT TESTS
 
 ## IDE
-Since it is a web application I used a simple code editor: "Visual Studio Code". It is very convenient for debugging web applications and offers many features that I used for my project.
+Since that project is a web application I used a simple code editor: "Visual Studio Code". It is very convenient for debugging web applications and offers many features that I used for my project.
+Some of the features I used for the development of the project:
+ - Live server
+ - Autofill HTML
+ - Inbuilt file explorer
 
 ## FUNCTIONAL PROGRAMMING
 
@@ -68,7 +72,7 @@ Users can complete their purchases on the checkout page. It includes:
 
 ### User Authentication
 
-Consider introducing user authentication elements such as: for improved security and user experience.
+Consider introducing user authentication elements such as: improved security and user experience.
 
 - Registration and login for users.
 - User profiles that include order history.
