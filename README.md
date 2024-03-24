@@ -15,18 +15,22 @@
 12. Functional Programming
 
 
-## Project Summary
+## 1. Project Summary
 
 This Flask-based project aims to make it easier to sell medical goods. It has basic functionality, including a homepage, catalog page, and checkout page. The goal of the project and its essential elements are summarized below.
 
-## UML Diagram
+## 2. Git
+The git version history for the project: [click here](https://github.com/bsdevda/OTC-Drugs/commits/main/?before=5318dc60090c4c5b315af21572cad407c4858575+35)
+
+## 1. UML Diagram
 UML Diagrams created with Lucid:
  - Dynamic: [Activity Diagram](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png)
  - Static: [Class Diagram](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png) and [Use Case Diagram](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png)
 
 ## Requirements Engineering
 Two types of requirements engineering were performed for this project. Please find the following link for your reference:
- - Self-made: https://www.notion.so/Requirements-Engineering-d8e730a826de41e0b3b26fdb6cde1cbf?pvs=4
+ - [Self-made](https://www.notion.so/Requirements-Engineering-d8e730a826de41e0b3b26fdb6cde1cbf?pvs=4)
+ - [Jira]() 
 
 ## Analysis
 
