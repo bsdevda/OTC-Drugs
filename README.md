@@ -1,4 +1,19 @@
-# Nonprescription Drugs
+# OTC Drugs
+
+### TABLE OF CONTENTS
+1. About
+2. Git
+3. UML
+4. Requirement Engineering
+5. Analysis
+6. DDD - Domain Driven Design
+7. Metrics
+8. Clean Code Development
+9. Build Management
+10. Unit Tests
+11. IDE
+12. Functional Programming
+
 
 ## Project Summary
 
@@ -6,10 +21,8 @@ This Flask-based project aims to make it easier to sell medical goods. It has ba
 
 ## UML Diagram
 UML Diagrams created with Lucid:
- - Dynamic: Activity Diagram
- - Static: Class and Use Case Diagram
-
-https://github.com/bsdevda/OTC-Drugs/tree/main/UMLs
+ - Dynamic: [Activity Diagram](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Activity%20diagram.png)
+ - Static: [Class Diagram](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/UML%20class.png) and [Use Case Diagram](https://github.com/bsdevda/OTC-Drugs/blob/main/UMLs/Use%20Case.png)
 
 ## Requirements Engineering
 Two types of requirements engineering were performed for this project. Please find the following link for your reference:
