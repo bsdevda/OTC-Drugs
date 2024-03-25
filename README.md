@@ -37,8 +37,8 @@ Two types of requirements engineering were performed for this project. Please fi
  - Analysis Link - https://github.com/bsdevda/OTC-Drugs/blob/main/Analysis/Analysis.pdf
 
 ## DDD
-
- - DDD Link - https://github.com/bsdevda/OTC-Drugs/blob/main/DDD/DDD.png
+ - Event Storming Diagram: ![Event Storming](https://github.com/bsdevda/OTC-Drugs/blob/main/ddd/ddd.jpg)
+ - Core Domain Chart: ![Core Domain](https://github.com/bsdevda/OTC-Drugs/blob/main/ddd/ddd.jpg)
 
 ## Metrics
 
@@ -57,6 +57,10 @@ Some of the features I used for the development of the project:
  - Live server
  - Autofill HTML
  - Inbuilt file explorer
+Some of my favorite shortcuts are:
+ - ```Ctrl+F``` (Find in code)
+ - ```Ctrl+Z``` (To Undo)
+ - ```Ctrl+Alt+O``` (Open code with live server)
 
 ## FUNCTIONAL PROGRAMMING
 
