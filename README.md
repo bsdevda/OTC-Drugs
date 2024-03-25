@@ -56,8 +56,10 @@ Some of the features I used for the development of the project:
  - Live server
  - Autofill HTML
  - Inbuilt file explorer
+
 Some of my favorite shortcuts are:
  - ```Ctrl+F``` (Find in code)
+ - ```Ctrl+C, Ctrl+V``` (Copy, Paste)
  - ```Ctrl+Z``` (To Undo)
  - ```Ctrl+Alt+O``` (Open code with live server)
 
