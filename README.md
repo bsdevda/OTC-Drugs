@@ -38,7 +38,7 @@ Two types of requirements engineering were performed for this project. Please fi
 
 ## DDD
  - Event Storming Diagram: ![Event Storming](https://github.com/bsdevda/OTC-Drugs/blob/main/ddd/ddd.jpg)
- - Core Domain Chart: ![Core Domain](https://github.com/bsdevda/OTC-Drugs/blob/main/ddd/ddd.jpg)
+ - Core Domain Chart: ![Core Domain](https://github.com/bsdevda/OTC-Drugs/blob/main/ddd/ddd2.jpg)
 
 ## Metrics
 
