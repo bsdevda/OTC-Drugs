@@ -41,8 +41,7 @@ Two types of requirements engineering were performed for this project. Please fi
  - Core Domain Chart: ![Core Domain](https://github.com/bsdevda/OTC-Drugs/blob/main/ddd/ddd2.jpg)
 
 ## Metrics
-
- - SonarQube Link - https://github.com/bsdevda/OTC-Drugs/tree/main/Metrics
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=bsdevda_OTC-Drugs&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=bsdevda_OTC-Drugs)
 
 ## CLEAN CODE DEVELOPMENT
 The code follows clean code development techniques by using meaningful variable names, explicit function operations, and a modular structure. It also uses input validation for user registration and cart management, promoting robustness while maintaining a high degree of code readability.
