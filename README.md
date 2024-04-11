@@ -49,6 +49,11 @@ The code follows clean code development techniques by using meaningful variable 
 ## BUILD MANAGEMENT
 
 ## UNIT TESTS
+1. Registering with a small password 
+<div style="display: flex;">
+  <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/Tests/ss1.PNG" alt="Test input" style="width: 50%;">
+  <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/Tests/ss2.PNG" alt="Test output" style="width: 50%;">
+</div>
 
 ## IDE
 Since that project is a web application I used a simple code editor: "Visual Studio Code". It is very convenient for debugging web applications and offers many features that I used for my project.
