@@ -51,8 +51,8 @@ The code follows clean code development techniques by using meaningful variable 
 ## UNIT TESTS
 1. Registering with a small password 
 <div style="display: flex;">
-  <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/Tests/ss1.PNG" alt="Test input" style="width: 50%;">
-  <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/Tests/ss2.PNG" alt="Test output" style="width: 50%;">
+  <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/Tests/ss1.PNG" alt="Test input" style="width: 45%;">
+  <img src="https://github.com/bsdevda/OTC-Drugs/blob/main/Tests/ss2.PNG" alt="Test output" style="width: 45%;">
 </div>
 
 ## IDE
